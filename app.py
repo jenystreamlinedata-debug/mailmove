@@ -1,5 +1,3 @@
-File name: app.py
-
 # ========================================
 # Gmail Mail Merge Tool - Modern UI Edition (Encoding Fix)
 # ========================================
